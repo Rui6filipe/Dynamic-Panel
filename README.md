@@ -1,4 +1,4 @@
-# Dynamic-Panel
+# Solar Tracker
 
 Solar Tracking Panel, made using an Arduino Board, servo motors, LDR's, and resistances. 3D printed structure, soldered resistances, and programed arduino to control motors.
 
